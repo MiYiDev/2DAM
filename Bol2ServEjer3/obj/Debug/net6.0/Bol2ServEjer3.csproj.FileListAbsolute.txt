@@ -1,0 +1,15 @@
+C:\Users\jimmy.A20-PC04\source\repos\Bol2ServEjer3\Bol2ServEjer3\obj\Debug\net6.0\Bol2ServEjer3.csproj.AssemblyReference.cache
+C:\Users\jimmy.A20-PC04\source\repos\Bol2ServEjer3\Bol2ServEjer3\obj\Debug\net6.0\Bol2ServEjer3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimmy.A20-PC04\source\repos\Bol2ServEjer3\Bol2ServEjer3\obj\Debug\net6.0\Bol2ServEjer3.AssemblyInfoInputs.cache
+C:\Users\jimmy.A20-PC04\source\repos\Bol2ServEjer3\Bol2ServEjer3\obj\Debug\net6.0\Bol2ServEjer3.AssemblyInfo.cs
+C:\Users\jimmy.A20-PC04\source\repos\Bol2ServEjer3\Bol2ServEjer3\obj\Debug\net6.0\Bol2ServEjer3.csproj.CoreCompileInputs.cache
+C:\Users\jimmy.A20-PC04\source\repos\Bol2ServEjer3\Bol2ServEjer3\bin\Debug\net6.0\Bol2ServEjer3.exe
+C:\Users\jimmy.A20-PC04\source\repos\Bol2ServEjer3\Bol2ServEjer3\bin\Debug\net6.0\Bol2ServEjer3.deps.json
+C:\Users\jimmy.A20-PC04\source\repos\Bol2ServEjer3\Bol2ServEjer3\bin\Debug\net6.0\Bol2ServEjer3.runtimeconfig.json
+C:\Users\jimmy.A20-PC04\source\repos\Bol2ServEjer3\Bol2ServEjer3\bin\Debug\net6.0\Bol2ServEjer3.dll
+C:\Users\jimmy.A20-PC04\source\repos\Bol2ServEjer3\Bol2ServEjer3\bin\Debug\net6.0\Bol2ServEjer3.pdb
+C:\Users\jimmy.A20-PC04\source\repos\Bol2ServEjer3\Bol2ServEjer3\obj\Debug\net6.0\Bol2ServEjer3.dll
+C:\Users\jimmy.A20-PC04\source\repos\Bol2ServEjer3\Bol2ServEjer3\obj\Debug\net6.0\refint\Bol2ServEjer3.dll
+C:\Users\jimmy.A20-PC04\source\repos\Bol2ServEjer3\Bol2ServEjer3\obj\Debug\net6.0\Bol2ServEjer3.pdb
+C:\Users\jimmy.A20-PC04\source\repos\Bol2ServEjer3\Bol2ServEjer3\obj\Debug\net6.0\Bol2ServEjer3.genruntimeconfig.cache
+C:\Users\jimmy.A20-PC04\source\repos\Bol2ServEjer3\Bol2ServEjer3\obj\Debug\net6.0\ref\Bol2ServEjer3.dll
